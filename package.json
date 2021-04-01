@@ -1,7 +1,7 @@
 {
-  "name": "ridhobot",
+  "name": "Sherlock",
   "version": "1.0.1",
-  "description": "bot whatsapp lewat hp doang",
+  "description": "Depan Polsek",
   "main": "index.js",
   "directories": {
     "lib": "lib"
